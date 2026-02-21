@@ -77,7 +77,7 @@ The dashboard includes:
 
 ## 🖼 Dashboard Preview
 
-![Dashboard Preview](Retail_Dashboard.png)
+![Dashboard Preview](powerbi/Retail_Dashboard.png)
 
 ---
 
